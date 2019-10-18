@@ -1,4 +1,4 @@
-function solveSudoku(matrix){
+module.exports = function solveSudoku(matrix){
   
 
 let potentZeros=[];
